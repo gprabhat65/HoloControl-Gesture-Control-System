@@ -61,3 +61,9 @@ Pycaw (Python Core Audio Windows Library)
 Screen Brightness Control by Crozz
 
 OpenCV Documentation
+
+
+
+🙌 Authors
+Prabhat Kumar Gupta
+Sulav Kumar Shresth
